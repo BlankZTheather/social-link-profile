@@ -22,3 +22,7 @@ Users should be able to:
 |           My Solution            |        Goal         |
 |:--------------------------------:|:-------------------:|
 | ![My Solution](./mysolution.jpg) | ![Goal](./goal.jpg) |
+
+### Links
+
+- [Live Site](https://blankztheather.github.io/social-link-profile/)
